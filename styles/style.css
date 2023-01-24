@@ -6,3 +6,31 @@
 .justice-btn-primary:hover{
     background-color: #B68C5A;
 }
+.justice-background{
+    height: 80vh;
+    max-width: 100%;
+    background-image: url("../images/Rectangle4.png");
+    background-size: cover;
+}
+.review-img-1{
+    background-image: url("../images/carousel-1.jpg");
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.review-img-2{
+    background-image: url("../images/carousel-2.jpg");
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.review-img-3{
+    background-image: url("../images/carousel-3.jpg");
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.carosel-icon{
+    height: 10%;
+    width: 10%;
+}
