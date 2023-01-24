@@ -1,6 +1,8 @@
-/* .justice-background{
-    height: 100vh;
-    background-image: url('../images/Rectangle\ 4.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
+.justice-btn-primary{
+    background-color: #B68C5A;
+    border: none;
+    padding: 5px;
+}
+.justice-btn-primary:hover{
+    background-color: #B68C5A;
+}
